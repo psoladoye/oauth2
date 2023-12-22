@@ -1,0 +1,8 @@
+openapi: "3.0.3"
+info:
+  title: "auth_server API"
+  description: "auth_server API"
+  version: "1.0.0"
+servers:
+- url: "https://auth_server"
+paths: {}
